@@ -3,3 +3,4 @@ upstream/Remove-duplicate-inb-outb-declaration-check.patch
 upstream/Ipmi-sel-add-missing-function-propotype.patch
 upstream/0004-ipmi-sensors-fix-header-guard-definitions.patch
 0005-add-missed-include-in-ipmi-sensors-oem-intel.c.patch
+CVE-2026-33554.patch
